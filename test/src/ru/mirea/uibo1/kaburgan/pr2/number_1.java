@@ -1,4 +1,4 @@
 package ru.mirea.uibo1.kaburgan.pr2;
 
-public class dfdsf {
+public class number_1 {
 }
