@@ -38,4 +38,3 @@ public class Square extends Rectangle {
         return "Square[side=" + getSide() + ", color=" + color + ", filled=" + filled + "]";
     }
 }
-

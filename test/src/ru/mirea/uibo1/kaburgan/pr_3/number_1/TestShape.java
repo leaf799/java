@@ -33,4 +33,3 @@ public class TestShape {
         System.out.println(sq1.getSide());
     }
 }
-

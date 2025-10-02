@@ -35,4 +35,3 @@ public class MovablePoint implements Movable {
         return "Point(" + x + "," + y + ") speed(" + xSpeed + "," + ySpeed + ")";
     }
 }
-

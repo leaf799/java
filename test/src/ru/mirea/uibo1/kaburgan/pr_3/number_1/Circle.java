@@ -42,4 +42,3 @@ public class Circle extends Shape {
         return "Circle[radius=" + radius + ", color=" + color + ", filled=" + filled + "]";
     }
 }
-
