@@ -53,3 +53,4 @@ public class Rectangle extends Shape {
         return "Rectangle[width=" + width + ", length=" + length + ", color=" + color + ", filled=" + filled + "]";
     }
 }
+
