@@ -12,3 +12,4 @@ public class Memory {
         return "Memory{" + size + "GB}";
     }
 }
+

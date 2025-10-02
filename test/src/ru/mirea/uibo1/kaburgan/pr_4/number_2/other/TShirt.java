@@ -15,3 +15,4 @@ public class TShirt extends Clothes implements MenClothing, WomenClothing {
         System.out.println("Женщина надевает футболку: " + this);
     }
 }
+

@@ -23,3 +23,4 @@ public enum Size {
         return "Взрослый размер";
     }
 }
+

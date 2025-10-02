@@ -10,3 +10,4 @@ public class Skirt extends Clothes implements WomenClothing {
         System.out.println("Женщина надевает юбку: " + this);
     }
 }
+
